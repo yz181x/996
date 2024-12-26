@@ -1,0 +1,1 @@
+{"isShowAttributeTips":false, "buttonSmall":"0", "isHideAuctionGuild":true, "isSingleJob":false, "isRandomJob":true,"playerInfoMode":"0", "syshero":"0","isRandomSex":true }

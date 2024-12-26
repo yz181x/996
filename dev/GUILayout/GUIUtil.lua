@@ -1,0 +1,1 @@
+SL:RegisterLUAEvent("LUA_EVENT_NPCLAYER_OPENSTATUS", "GUIUtile", function(data) local layer = SL:GetMetaValue("CURRENT_TALK_NPC_LAYER") if layer then GUI:Timeline_Window1(layer) end end)
